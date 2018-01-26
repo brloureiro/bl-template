@@ -1,3 +1,6 @@
+% I largely benefited from ideas and code from the following templates:
+% University of Cambridge Computer Science template: https://github.com/cambridge/thesis/
+% Dissertate template: https://github.com/suchow/Dissertate
 
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{bl-class}[2018/01/24 v2.0 My own class]
