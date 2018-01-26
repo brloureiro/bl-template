@@ -8,5 +8,5 @@ There are robust templates available from other departments in the University, m
   <li>Krishna Kumar's Template: https://github.com/kks32/phd-thesis-template</li>
   <li>University of Cambridge Computer Science template: https://github.com/cambridge/thesis/</li>
 </ul>
-But I found they had much more functionality than I needed, making it heavier and trickier to bespoke. So I wrote a (almost) minimal one for my needs. It includes two different title pages (the classic one similar to Krishna's and another similar to CS) and two options for the chapter headings.
+But I found they had much more functionality than I needed, making it heavier and trickier to bespoke. So I wrote a (almost) minimal one for my needs. It includes two different title pages (the classic one similar to Krishna's and another similar to CS) and two options for the chapter headings. For the different options, check the <a href="https://github.com/brloureiro/bl-template/wiki">wiki</a>! 
 <br/><br/>
