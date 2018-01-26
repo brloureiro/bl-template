@@ -1,7 +1,7 @@
 # bl-template
 <i> PhD thesis template for the University of Cambridge </i>
 
-This is a very simple and light template for a PhD thesis in LaTeX that complies with the University of Cambridge guidelines. 
+This is a very simple and light template in LaTeX for a PhD thesis that complies with the University of Cambridge guidelines. 
 <br/><br/>
 There are robust templates available from other departments in the University, most notably:
 <ul>
