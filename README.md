@@ -5,5 +5,6 @@ This is a minimal working template for the thesis style I wrote for my PhD at th
 It complies with the University regulations and includes two different styles of title page and chapter headings.
 
 I largely benefited from ideas and code from the following templates:
+
 University of Cambridge Computer Science template: https://github.com/cambridge/thesis/ 
 Dissertate template: https://github.com/suchow/Dissertate
