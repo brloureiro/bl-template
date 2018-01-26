@@ -10,6 +10,3 @@ There are robust templates available from other departments in the University, m
 </ul>
 But I found they had much more functionality than I needed, making it heavier and trickier to bespoke. So I wrote a (almost) minimal one for my needs. It includes two different title pages (the classic one similar to Krishna's and another similar to CS) and two options for the chapter headings.
 <br/><br/>
-<i>I largely benefited from ideas and code from the Dissertate templates: https://github.com/suchow/Dissertate</i>
-
-<img src="https://i.imgur.com/9R5DUXz.png" alt="test">
