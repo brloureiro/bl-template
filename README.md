@@ -12,4 +12,4 @@ But I found they had much more functionality than I needed, making it heavier an
 <br/><br/>
 <i>I largely benefited from ideas and code from the Dissertate templates: https://github.com/suchow/Dissertate</i>
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/5KQeE"><a href="//imgur.com/5KQeE"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://imgur.com/a/5KQeE" alt="Mountain View">
